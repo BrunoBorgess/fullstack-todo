@@ -1,6 +1,5 @@
 # fullstack-todo
 
-
 Aplicação full stack de gerenciamento de tarefas com autenticação de usuários.
 
 ## Tecnologias
